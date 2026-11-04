@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# outputs and data (not part of the repo)
+figures/
+checkpoints/
+data/
+runs/
+src/sinusoidal_embedding.py
